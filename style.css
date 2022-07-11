@@ -1,0 +1,37 @@
+body{
+background: wheat;
+font-family: 'Unica One', cursive;
+}
+
+.header_div{
+background: violet;
+color: cadetblue;
+}
+
+.header_div p{
+ font-family: 'Unica One', cursive;
+color: rgb(113, 212, 20);
+letter-spacing: 3px;
+font-size: 13px;
+font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Unica One', cursive;
+    margin-top: 31px;
+    width: 131px;
+    font-weight: bolder;
+    letter-spacing: 4px;
+}
+
+.copy_right_footer{
+position: fixed;
+color: rgb(0, 0, 0);
+bottom: 0;
+width : 100%;
+font-size: 18px;
+background-color: azure;
+line-height: 3;
+text-align: center;
+text-shadow: 6px 6px 6px rgb(113, 212, 20);
+}
